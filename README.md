@@ -1,5 +1,6 @@
+[![](https://visitcount.itsvg.in/api?id=kairavipandya&icon=0&color=8)](https://visitcount.itsvg.in)
 # 💫 About Me:
-What I'm Focused On:<br><br>Sharpening my skills in React and exploring new frameworks to stay ahead in the fast-paced world of frontend development.<br>Building my UI/UX design skills to enhance user interaction with the applications I develop.<br>Expanding my portfolio with projects that not only challenge me but also make a difference.<br>A Bit More About Me:<br>Outside of coding, I immerse myself in the world of books. I'm an avid reader with a particular love for fiction and contemporary genres. Books not only fuel my imagination but also inspire creativity in my work.
+What I'm Focused On:<br>Sharpening my skills in React and exploring new frameworks to stay ahead in the fast-paced world of frontend development.<br>Building my UI/UX design skills to enhance user interaction with the applications I develop.<br>Expanding my portfolio with projects that not only challenge me but also make a difference.<br>A Bit More About Me:<br>Outside of coding, I immerse myself in the world of books. I'm an avid reader with a particular love for fiction and contemporary genres. Books not only fuel my imagination but also inspire creativity in my work.
 
 
 ## 🌐 Socials:
@@ -13,7 +14,7 @@ What I'm Focused On:<br><br>Sharpening my skills in React and exploring new fram
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kairavipandya&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kairavipandya&icon=0&color=8)](https://visitcount.itsvg.in)
+
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kairavipandya) 
