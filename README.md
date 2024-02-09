@@ -15,37 +15,37 @@ Outside of coding, I immerse myself in the world of books. I'm an avid reader wi
 
 # 💻 Tech Stack:
 ## Programming Languages:
-![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=#d1a481)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&color=#d1a481)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&color=#d1a481)
-![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white&color=#d1a481)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=#d1a481)
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white&color=#d1a481)
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=d1a481)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&color=d1a481)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&color=d1a481)
+![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white&color=d1a481)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=d1a481)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white&color=d1a481)
 
 ## Frameworks & Libraries:
-![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB&color=#fab4a4)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E.svg?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D&color=#fab4a4)
-![Angular.js](https://img.shields.io/badge/Angular.js-E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white&color=#fab4a4)
-![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white&color=#fab4a4)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white&color=#fab4a4)
-![Express.js](https://img.shields.io/badge/Express.js-404D59.svg?style=for-the-badge&logo=express&logoColor=61DAFB&color=#fab4a4)
+![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB&color=fab4a4)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E.svg?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D&color=fab4a4)
+![Angular.js](https://img.shields.io/badge/Angular.js-E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white&color=fab4a4)
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white&color=fab4a4)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white&color=fab4a4)
+![Express.js](https://img.shields.io/badge/Express.js-404D59.svg?style=for-the-badge&logo=express&logoColor=61DAFB&color=fab4a4)
 
 ## Tools & Platforms:
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013.svg?style=for-the-badge&logo=github&logoColor=white&color=#d3d596)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white&color=#d3d596)
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&color=#d3d596)
-![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=white&color=#d3d596)
-![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white&color=#d3d596)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white&color=#d3d596)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013.svg?style=for-the-badge&logo=github&logoColor=white&color=d3d596)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white&color=d3d596)
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&color=d3d596)
+![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=white&color=d3d596)
+![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white&color=d3d596)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white&color=d3d596)
 
 ## Databases:
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=#efe4dc)
-![MySQL](https://img.shields.io/badge/MySQL-00000F.svg?style=for-the-badge&logo=mysql&logoColor=white&color=#efe4dc)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=#efe4dc)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=efe4dc)
+![MySQL](https://img.shields.io/badge/MySQL-00000F.svg?style=for-the-badge&logo=mysql&logoColor=white&color=efe4dc)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=efe4dc)
 
 ## Design & UI/UX:
-![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white&color=#cb7287)
-![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white&color=#cb7287)
+![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white&color=cb7287)
+![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white&color=cb7287)
 
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kairavipandya&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)
