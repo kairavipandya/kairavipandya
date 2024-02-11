@@ -4,7 +4,9 @@
 What I'm Focused On:  
 Sharpening my skills in React and exploring new frameworks to stay ahead in the fast-paced world of frontend development.  
 Building my UI/UX design skills to enhance user interaction with the applications I develop.  
-Expanding my portfolio with projects that not only challenge me but also make a difference.
+Expanding my portfolio with projects that not only challenge me but also make a difference.  
+
+Additionally, I'm passionate about data science and machine learning, constantly learning and applying new techniques to solve real-world problems.
 
 A Bit More About Me:  
 Outside of coding, I immerse myself in the world of books. I'm an avid reader with a particular love for fiction and contemporary genres. Books not only fuel my imagination but also inspire creativity in my work.
@@ -53,7 +55,7 @@ Outside of coding, I immerse myself in the world of books. I'm an avid reader wi
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kairavipandya&theme=material-palenight&hide_border=false&layout=compact)
 
 ## 💼 Currently Working On:
-Building my portfolio to showcase my skills in frontend design and development.
+Building my portfolio to showcase my skills in frontend design and development, as well as exploring projects in data science and machine learning.
 
 ## 💰 Support Me:
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kairavipandya)
