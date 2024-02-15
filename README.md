@@ -48,6 +48,8 @@ Outside of coding, I immerse myself in the world of books. I'm an avid reader wi
 ## Design & UI/UX:
 ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white&color=cb7287)
 ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white&color=cb7287)
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&color=cb7287)
+
 
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kairavipandya&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)
