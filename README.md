@@ -45,13 +45,18 @@ Outside of coding, I immerse myself in the world of books. I'm an avid reader wi
 ![MySQL](https://img.shields.io/badge/MySQL-00000F.svg?style=for-the-badge&logo=mysql&logoColor=white&color=efe4dc)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=efe4dc)
 
+## Machine Learning:
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white&color=86c232)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white&color=86c232)
+![Scikit-learn](https://img.shields.io/badge/Scikit%20learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white&color=86c232)
+![Keras](https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white&color=86c232)
+
+
 ## Design & UI/UX:
 ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white&color=cb7287)
 ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white&color=cb7287)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&color=cb7287)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white&color=cb7287)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white&color=cb7287)
-![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white&color=cb7287)
 
 
 
