@@ -61,7 +61,6 @@ Outside of coding, I immerse myself in the world of books. I'm an avid reader wi
 
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kairavipandya&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kairavipandya&theme=material-palenight&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kairavipandya&theme=material-palenight&hide_border=false&layout=compact)
 
