@@ -8,9 +8,6 @@ Expanding my portfolio with projects that not only challenge me but also make a 
 
 Additionally, I'm passionate about data science and machine learning, constantly learning and applying new techniques to solve real-world problems.
 
-A Bit More About Me:  
-Outside of coding, I immerse myself in the world of books. I'm an avid reader with a particular love for fiction and contemporary genres. Books not only fuel my imagination but also inspire creativity in my work.
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kairavipandya)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kairavi-p)
@@ -61,13 +58,7 @@ Outside of coding, I immerse myself in the world of books. I'm an avid reader wi
 
 
 # 📊 GitHub Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kairavipandya&theme=material-palenight&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kairavipandya&theme=material-palenight&hide_border=false&layout=compact)
-
-## 💼 Currently Working On:
-Building my portfolio to showcase my skills in frontend design and development, as well as exploring projects in data science and machine learning.
 
 ## 💰 Support Me:
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kairavipandya)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
